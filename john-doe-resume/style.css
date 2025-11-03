@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@100;200;300;400;500;600;700&family=Momo+Trust+Display&family=Noto+Sans+Thai:wght@100..900&display=swap");
+body{
+    font-family: "IBM Plex Sans Thai", sans-serif;
+}
+p{
+    background-color: #bdffbd;
+    color: #1b1b1b;
+}
+#About{
+    color: gold;
+    background-color: black;
+}
+section{
+    background-color: #264f9c;
+    color: #fff3f3;
+}
+.box{
+    margin: auto;
+    text-align: center;
+    width: 800px;
+}

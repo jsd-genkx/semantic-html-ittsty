@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@100;200;300;400;500;600;700&family=Momo+Trust+Display&family=Noto+Sans+Thai:wght@100..900&display=swap");
+body{
+    font-family: "IBM Plex Sans Thai", sans-serif;
+}
+
+#Login{
+    margin: 0 auto ;
+    background-color: salmon;
+    width: 700px;
+}
+.Login__frame{
+    width :fit-content;
+    margin: 0 auto;
+}
+.Login__frame label{
+    display: block;
+    font-size: 1.75rem;
+    font-weight: 600;
+}
+.Login__frame input{
+    display: block;
+    width: 100%;
+    border: 2px solid rgb(0, 74, 211);
+    font-size: 1.5rem;
+    border-radius: 8px;
+}
+.Login__frame button{
+    margin:15px auto;
+    display: block;
+}
